@@ -2,7 +2,6 @@
 # Welcome, new coder.
 # Enter your code on line 7 to print 'Hello, World!'
 # to the console (the panel on the right)
-
 print ('It\'s as simple as', end=" "), print (1+1);
 
 # Next, PLAY!
